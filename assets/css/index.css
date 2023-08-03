@@ -15,6 +15,7 @@ img {
     width: 100%;
     box-shadow: 0px 2px 20px rgba(14, 29, 52, 0.1);
     position: fixed;
+    z-index: 25;
 }
 
 .main-header .logo-link-nav {
