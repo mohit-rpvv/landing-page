@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_138" data-name="Rectangle 138" width="36" height="36" transform="translate(18151.988 6193.99)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="money" transform="translate(-18151.989 -6193.99)" clip-path="url(#clip-path)">
+    <g id="money-bag" transform="translate(18155.016 6194.955)">
+      <path id="Path_16350" data-name="Path 16350" d="M31.492,151.133a1,1,0,1,0,.365,1.363A1,1,0,0,0,31.492,151.133Zm0,0" transform="translate(-27.999 -140.951)" fill="#2368f6"/>
+      <path id="Path_16351" data-name="Path 16351" d="M364.987,93h-1V92a1,1,0,1,0-2,0v1h-1a1,1,0,0,0,0,2h1v1a1,1,0,0,0,2,0V95h1a1,1,0,1,0,0-2Zm0,0" transform="translate(-336.041 -84.948)" fill="#2368f6"/>
+      <path id="Path_16352" data-name="Path 16352" d="M2,4.995a1,1,0,0,0,2,0V4h1a1,1,0,0,0,0-2h-1V1A1,1,0,1,0,2,1V2H1A1,1,0,1,0,1,4H2Zm0,0" transform="translate(0 -0.004)" fill="#2368f6"/>
+      <path id="Path_16353" data-name="Path 16353" d="M120.314,1.867a15.93,15.93,0,0,1,1.611,6.119h10.121a15.926,15.926,0,0,1,1.61-6.119l.211-.421A1,1,0,0,0,132.527.106l-3.349,1.675L127.691.294a1,1,0,0,0-1.411,0l-1.487,1.487L121.443.106A1,1,0,0,0,120.1,1.446Zm0,0" transform="translate(-112.013 -0.001)" fill="#343434"/>
+      <path id="Path_16354" data-name="Path 16354" d="M49.087,151H36.864l-3.9,4.717A13.18,13.18,0,0,0,30,164.046c0,6.67,5.093,10.979,12.976,10.979s12.976-4.309,12.976-10.979a12.994,12.994,0,0,0-2.968-8.259Zm-6.122,10.34a2.987,2.987,0,0,1,1.009,5.8v.893a1,1,0,1,1-2,0v-.886a2.989,2.989,0,0,1-2.007-2.814,1,1,0,1,1,2,0,1,1,0,1,0,1-1,2.987,2.987,0,0,1-.987-5.808v-1.471a1,1,0,1,1,2,0v1.478a2.99,2.99,0,0,1,1.986,2.807,1,1,0,0,1-2,0,1,1,0,1,0-1,1Zm0,0" transform="translate(-28.004 -140.956)" fill="#343434"/>
+    </g>
+  </g>
+</svg>
